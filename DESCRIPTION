@@ -1,0 +1,16 @@
+Package: wireharness
+Type: Package
+Title: Wireharness Func
+Version: 0.1.1
+Author: Pralhad K
+Maintainer: Pralhad K <pralhad.kalkundre@hyster-yale.com>
+Description: It provides fuction to calculate various parameters of Wire harness
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    xts,
+    dplyr
+Depends: 
+    R (>= 2.10)
